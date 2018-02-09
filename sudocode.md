@@ -19,3 +19,5 @@ event onclick element class id ETC
     else if classlist = NaN run function NaN
     else if class list = "=" display total
     else     total = ""    entry = 0    temp = 0 display total
+
+
